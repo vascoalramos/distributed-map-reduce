@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a product of the frist practical assignement of one of our classes: [Distributed Computing](https://www.ua.pt/en/uc/12273) and the main idea behind it is to implement the map/reduce algorithm in a centralized distributed system, with one coordinator and several workers processes, also having a fault tolerance mechanism.
+This project is a product of the second practical assignement of one of our classes: [Distributed Computing](https://www.ua.pt/en/uc/12273) and the main idea behind it is to implement the map/reduce algorithm in a centralized distributed system, with one coordinator and several workers processes, also having a fault tolerance mechanism.
 
 ## Prerequisites
 * python3.7.1

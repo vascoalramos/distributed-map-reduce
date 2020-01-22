@@ -1,0 +1,6 @@
+1) remover repitidos
+2) mergir as duas listas percorrendo a mais pequena e bazendo binary search na maior
+3) sort
+
+
+Alterntiva: fazer 2) e 3) com merge sort
